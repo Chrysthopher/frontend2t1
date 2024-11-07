@@ -1,0 +1,65 @@
+- NavBar
+possui 3 botoes, um botao que abre em lista vertical, um logo no meio, 3 botões a direita
+
+- Div
+Contêiner com outro contêiner interno (2 imagens, caixa de texto), em cima de outra caixa de texto, em cima de 2 botões
+
+- Div
+Imagem
+
+- Div
+Contêiner, com dois conteiners internos
+Contêiner A possui um video, e 2 caixas de texto
+Contêiner B possui um Botao, 2 caixas de texto, e 3 imagens
+
+- Div
+Contêiner
+Imagem de fundo, com 2 conteiners acima dela
+Contêiner A possui 3 caixas de texto e um botão
+Cioonteiner B possui uma outra imagem
+
+- Div
+Contêiner, possui 2 contêiner internos
+Contêiner A possui 2 caixas de texto e uma imagem
+Contêiner B possui 2 caixas de texto e uma imagem
+
+- Div
+Contêiner, possui uma imagem enorme, com 2 caixas de texto abaixo dela
+
+- Div
+Muda cor do fundo numa caixa retangular
+2 caixas de texto acima de uma lista 
+
+- Div
+Contêiner com 2 Contêiners dentro dela
+Contêiner A e B são imagens lado a lado com 2 caixas de texto abaixo
+
+- Div
+Muda cor do fundo e 2 caixas de texto
+
+- Div
+Imagem com 2 caixas de texto, OU, Contêiner interno com 1 imagem e 3 imagens acima dela, com 2 caixas de texto abaixo
+
+- Div
+Muda cor do fundo, 2 caixas de texto com uma lista abaixo
+
+- Div
+2 conteiners com cada um tendo 1 imagem e 2 caixas de texto
+
+- Div 
+muda cor do fundo com 2 caixas de texto
+
+- Div
+Imagem com texto embaixo
+
+- Div
+Contêiner com 8 contêiner internos, cada um tendo uma imagem e 2 caixas de texto, mas um deles tendo 2 imagens e uma caixa de texto.
+
+- Div
+Contêiner com fundo preto e bordas arredondadas, possui imagem, com 3 imagens, um botão e 2 caixas de texto acima
+
+- Div
+Imagem com 2 caixas de texto abaixo, e 2 botões abaixo de tudo
+
+- Div
+Rodape da Pagina, com 4 divs, o primeiro tendo 4 imagens e uma caixa de texto, o segundo terceiro e quarto sendo listas de botões.

@@ -1,0 +1,189 @@
+.c2v1 {
+    width: 50%; /* Para ocupar 100% da coluna */
+    max-width: 300px;
+    height: center;
+    
+  }
+
+
+
+
+  .Texto1 {
+    width: 100%; /* Para ocupar 100% da coluna */
+    max-width: 400px; /* Para limitar a largura máxima */
+  }
+
+  .navbar-brand {
+    position: absolute; /* Para centralizar */
+    left: 50%; /* Alinha à esquerda do centro */
+    transform: translateX(-50%); /* Move para a esquerda para centralizar */
+  }
+
+  .navbar-nav1
+  {
+    position: absolute;
+    left: 5%
+  }
+
+  .navbar-nav2
+  {
+    position: absolute;
+    right: 5%
+  }
+
+
+  .container {
+    text-align: center; /* Centraliza o texto */
+    margin-top: 50px; /* Espaçamento superior */
+    margin-bottom: 50px;
+  }
+  h1 {
+    font-family: 'Georgia', serif; /* Fonte para o título */
+    font-size: 48px; /* Tamanho do texto do título */
+    margin: 0; /* Remove a margem padrão */
+  }
+  h2 {
+    font-family: 'Georgia', serif; /* Fonte para o subtítulo */
+    font-size: 36px; /* Tamanho do texto do subtítulo */
+    font-weight: normal; /* Peso da fonte */
+    color: #333; /* Cor do texto */
+    margin: 0; /* Remove a margem padrão */
+  }
+  .description {
+    font-size: 18px; /* Tamanho do texto da descrição */
+    margin: 10px 0; /* Margens verticais reduzidas */
+    color: #555; /* Cor da descrição */
+  }
+  .btn-custom {
+    margin: 10px; /* Margem entre os botões */
+  }
+  .img-container1 {
+    display: flex; /* Flexbox para centralização */
+    justify-content: left; /* Centraliza horizontalmente */
+  }
+
+  .img-container2 {
+    display: flex; /* Flexbox para centralização */
+    justify-content: right; /* Centraliza horizontalmente */
+  }
+
+
+  .img-fluid {
+    
+    height: auto; /* Mantém a proporção da imagem */
+  }
+
+  .icon-combination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px; /* Espaço abaixo dos ícones */
+  }
+
+  .icon {
+    width: 20px; /* Ajuste o tamanho dos ícones conforme necessário */
+    height: 20px;
+  }
+
+  .plus-icon {
+    font-size: 18px; /* Ajuste o tamanho do símbolo + */
+    font-weight: bold;
+    color: black; /* Cor do símbolo + */
+  }
+
+  .jumbotron.jumbotron-verde{
+    background: greenyellow;
+  }
+
+  .jumbotron {
+    padding: 0;
+    padding-top: 10px;
+    margin-top: 40px; /* Ajuste este valor conforme a altura da sua navbar */
+    margin-bottom: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.row {
+  text-align: center;
+  display: flex;
+}
+
+.image-grafico{
+  margin-top: 80px;
+}
+.image-grande{
+  width: 100%;
+}
+
+.navitem{
+  color:#818181;
+  border-left-color: #818181;
+  border-left-width: thick;
+  border-left-style: solid;
+}
+
+.navitem:hover{
+  color:black;
+  border-left-color: black;
+}
+
+.navitem.active:hover{
+  color:black;
+  border-left-color: black;
+}
+
+.box{
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.boxvideo{
+  display:flex;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.caixa{
+  position: relative;
+  padding:20px;
+  color:#333;
+  border-radius: 5px;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  
+}
+.caixav{
+  position: relative;
+  padding-top:20px;
+  padding-bottom:20px;
+  color:#333;
+  border-radius: 5px;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  
+}
+
+.caixa-1{
+  background-color: #F2EFDF;
+}
+
+.caixa-2{
+  background-color: #F2F2F2;
+}
+.caixa-3{
+  background-color: #E9F2EB;
+}
+
+
+
+
+.batata{
+  margin-bottom:24px;
+}
+
+.img-grande
+{
+  width: 100%;
+}
